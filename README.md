@@ -1,3 +1,5 @@
+# E-commerce Purchase Prediction
+
 1.	Project topic and description:
 
   For my project, I will be focusing on purchase prediction specifically for an e-commerce company. The main goal is to address the need for the organization to understand and anticipate when customers are most likely to make a purchase. By accurately predicting this, the company can take targeted actions, such as offering personalized discounts or reminders, at just the right moment. This approach not only helps in boosting sales but also ensures that marketing efforts are more efficient, leading to improved customer satisfaction and increased revenue. The project aims to bridge the gap between customer behavior and the company's actions, ensuring that opportunities to convert potential buyers into actual buyers are maximized.
